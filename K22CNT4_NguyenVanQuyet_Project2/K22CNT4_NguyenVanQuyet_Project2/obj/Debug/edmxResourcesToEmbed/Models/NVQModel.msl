@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NQVDbModelStoreContainer" CdmEntityContainer="NVQDbEntities">
+    <EntitySetMapping Name="Chi_Tiet_Don_Hang">
+      <EntityTypeMapping TypeName="NQVDbModel.Chi_Tiet_Don_Hang">
+        <MappingFragment StoreEntitySet="Chi_Tiet_Don_Hang">
+          <ScalarProperty Name="id_don_hang" ColumnName="id_don_hang" />
+          <ScalarProperty Name="id_san_pham" ColumnName="id_san_pham" />
+          <ScalarProperty Name="so_luong" ColumnName="so_luong" />
+          <ScalarProperty Name="don_gia" ColumnName="don_gia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Danh_Gia">
+      <EntityTypeMapping TypeName="NQVDbModel.Danh_Gia">
+        <MappingFragment StoreEntitySet="Danh_Gia">
+          <ScalarProperty Name="id_danh_gia" ColumnName="id_danh_gia" />
+          <ScalarProperty Name="id_san_pham" ColumnName="id_san_pham" />
+          <ScalarProperty Name="id_nguoi_dung" ColumnName="id_nguoi_dung" />
+          <ScalarProperty Name="diem" ColumnName="diem" />
+          <ScalarProperty Name="binh_luan" ColumnName="binh_luan" />
+          <ScalarProperty Name="ngay_danh_gia" ColumnName="ngay_danh_gia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Danh_Muc">
+      <EntityTypeMapping TypeName="NQVDbModel.Danh_Muc">
+        <MappingFragment StoreEntitySet="Danh_Muc">
+          <ScalarProperty Name="id_danh_muc" ColumnName="id_danh_muc" />
+          <ScalarProperty Name="ten_danh_muc" ColumnName="ten_danh_muc" />
+          <ScalarProperty Name="mo_ta" ColumnName="mo_ta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Don_Hang">
+      <EntityTypeMapping TypeName="NQVDbModel.Don_Hang">
+        <MappingFragment StoreEntitySet="Don_Hang">
+          <ScalarProperty Name="id_don_hang" ColumnName="id_don_hang" />
+          <ScalarProperty Name="id_nguoi_dung" ColumnName="id_nguoi_dung" />
+          <ScalarProperty Name="ngay_dat" ColumnName="ngay_dat" />
+          <ScalarProperty Name="tong_gia_tri" ColumnName="tong_gia_tri" />
+          <ScalarProperty Name="trang_thai" ColumnName="trang_thai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hang_San_Xuat">
+      <EntityTypeMapping TypeName="NQVDbModel.Hang_San_Xuat">
+        <MappingFragment StoreEntitySet="Hang_San_Xuat">
+          <ScalarProperty Name="id_hang" ColumnName="id_hang" />
+          <ScalarProperty Name="ten_hang" ColumnName="ten_hang" />
+          <ScalarProperty Name="quoc_gia" ColumnName="quoc_gia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Nguoi_Dung">
+      <EntityTypeMapping TypeName="NQVDbModel.Nguoi_Dung">
+        <MappingFragment StoreEntitySet="Nguoi_Dung">
+          <ScalarProperty Name="id_nguoi_dung" ColumnName="id_nguoi_dung" />
+          <ScalarProperty Name="ten_dang_nhap" ColumnName="ten_dang_nhap" />
+          <ScalarProperty Name="mat_khau" ColumnName="mat_khau" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="so_dien_thoai" ColumnName="so_dien_thoai" />
+          <ScalarProperty Name="dia_chi" ColumnName="dia_chi" />
+          <ScalarProperty Name="ngay_tao" ColumnName="ngay_tao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="San_Pham">
+      <EntityTypeMapping TypeName="NQVDbModel.San_Pham">
+        <MappingFragment StoreEntitySet="San_Pham">
+          <ScalarProperty Name="id_sp" ColumnName="id_sp" />
+          <ScalarProperty Name="ten_sp" ColumnName="ten_sp" />
+          <ScalarProperty Name="id_hang" ColumnName="id_hang" />
+          <ScalarProperty Name="mo_ta" ColumnName="mo_ta" />
+          <ScalarProperty Name="gia" ColumnName="gia" />
+          <ScalarProperty Name="so_luong_ton" ColumnName="so_luong_ton" />
+          <ScalarProperty Name="ngay_tao" ColumnName="ngay_tao" />
+          <ScalarProperty Name="hinhanh" ColumnName="hinhanh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Thanh_Toan">
+      <EntityTypeMapping TypeName="NQVDbModel.Thanh_Toan">
+        <MappingFragment StoreEntitySet="Thanh_Toan">
+          <ScalarProperty Name="id_thanh_toan" ColumnName="id_thanh_toan" />
+          <ScalarProperty Name="id_don_hang" ColumnName="id_don_hang" />
+          <ScalarProperty Name="ngay_thanh_toan" ColumnName="ngay_thanh_toan" />
+          <ScalarProperty Name="so_tien" ColumnName="so_tien" />
+          <ScalarProperty Name="phuong_thuc" ColumnName="phuong_thuc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yeu_Thich">
+      <EntityTypeMapping TypeName="NQVDbModel.Yeu_Thich">
+        <MappingFragment StoreEntitySet="Yeu_Thich">
+          <ScalarProperty Name="id_yeu_thich" ColumnName="id_yeu_thich" />
+          <ScalarProperty Name="id_nguoi_dung" ColumnName="id_nguoi_dung" />
+          <ScalarProperty Name="id_san_pham" ColumnName="id_san_pham" />
+          <ScalarProperty Name="ngay_them" ColumnName="ngay_them" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="San_Pham_Danh_Muc" TypeName="NQVDbModel.San_Pham_Danh_Muc" StoreEntitySet="San_Pham_Danh_Muc">
+      <EndProperty Name="Danh_Muc">
+        <ScalarProperty Name="id_danh_muc" ColumnName="id_danh_muc" />
+      </EndProperty>
+      <EndProperty Name="San_Pham">
+        <ScalarProperty Name="id_sp" ColumnName="id_sp" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

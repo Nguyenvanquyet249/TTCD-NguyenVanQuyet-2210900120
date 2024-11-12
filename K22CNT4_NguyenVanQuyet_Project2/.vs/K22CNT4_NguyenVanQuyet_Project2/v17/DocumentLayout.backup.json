@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|f:\\aspnet\\k22cnt4_nguyenvanquyet_project2\\k22cnt4_nguyenvanquyet_project2\\views\\nvq_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\views\\nvq_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|f:\\aspnet\\k22cnt4_nguyenvanquyet_project2\\k22cnt4_nguyenvanquyet_project2\\views\\nvqcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\views\\nvqcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|f:\\aspnet\\k22cnt4_nguyenvanquyet_project2\\k22cnt4_nguyenvanquyet_project2\\controllers\\nvqcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\controllers\\nvqcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|f:\\aspnet\\k22cnt4_nguyenvanquyet_project2\\k22cnt4_nguyenvanquyet_project2\\bussiness\\nvq_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\bussiness\\nvq_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\k22cnt4_nguyenvanquyet_project2\\controllers\\nvq_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\controllers\\nvq_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|f:\\aspnet\\k22cnt4_nguyenvanquyet_project2\\k22cnt4_nguyenvanquyet_project2\\models\\nvqcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\models\\nvqcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\k22cnt4_nguyenvanquyet_project2\\models\\nvqmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\models\\nvqmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\k22cnt4_nguyenvanquyet_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC8E944-574F-4205-BD9B-B81758966573}|K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2.csproj|solutionrelative:k22cnt4_nguyenvanquyet_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQCart\\Index.cshtml",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQCart\\Index.cshtml",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T09:13:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NVQCartController.cs",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQCartController.cs",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQCartController.cs",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQCartController.cs",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQCartController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAASwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:02:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NVQCartItem.cs",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQCartItem.cs",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQCartItem.cs",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQCartItem.cs",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:50:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NVQ_ShoppingCart.cs",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Bussiness\\NVQ_ShoppingCart.cs",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Bussiness\\NVQ_ShoppingCart.cs",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Bussiness\\NVQ_ShoppingCart.cs",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Bussiness\\NVQ_ShoppingCart.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:49:24.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQ_San_Pham\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQ_San_Pham\\Index.cshtml",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQ_San_Pham\\Index.cshtml",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Views\\NVQ_San_Pham\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwA8AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:47:14.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NVQ_San_PhamController.cs",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQ_San_PhamController.cs",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQ_San_PhamController.cs",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQ_San_PhamController.cs",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Controllers\\NVQ_San_PhamController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:46:20.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NVQModel.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQModel.edmx",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQModel.edmx",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQModel.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Models\\NVQModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-11T08:22:09.159Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT4_NguyenVanQuyet_Project2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\aspnet\\K22CNT4_NguyenVanQuyet_Project2\\K22CNT4_NguyenVanQuyet_Project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT4_NguyenVanQuyet_Project2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:35:15.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿@model K22CNT4_NguyenVanQuyet_Project2.Models.San_Pham
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>San_Pham</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ten_sp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ten_sp)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mo_ta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mo_ta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.so_luong_ton)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.so_luong_ton)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngay_tao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngay_tao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hang_San_Xuat.ten_hang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hang_San_Xuat.ten_hang)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_sp }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

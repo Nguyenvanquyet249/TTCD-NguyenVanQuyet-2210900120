@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fbf39ee1296a46868019cbce55f4b449" Name="Diagram1">
+        <EntityTypeShape EntityType="NQVDbModel.Chi_Tiet_Don_Hang" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Danh_Gia" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Danh_Muc" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Don_Hang" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Hang_San_Xuat" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Nguoi_Dung" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.San_Pham" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Thanh_Toan" Width="1.5" PointX="5.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NQVDbModel.Yeu_Thich" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="NQVDbModel.FK__Chi_Tiet___id_do__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Chi_Tiet___id_sa__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Danh_Gia__id_ngu__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Danh_Gia__id_san__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Don_Hang__id_ngu__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Thanh_Toa__id_do__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__San_Pham__id_han__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Yeu_Thich__id_ng__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.FK__Yeu_Thich__id_sa__6C190EBB" ManuallyRouted="false" />
+        <AssociationConnector Association="NQVDbModel.San_Pham_Danh_Muc" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

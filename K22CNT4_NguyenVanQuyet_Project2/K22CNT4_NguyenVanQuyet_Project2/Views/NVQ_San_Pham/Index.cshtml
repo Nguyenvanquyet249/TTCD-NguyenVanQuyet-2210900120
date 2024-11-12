@@ -1,0 +1,27 @@
+﻿@model IEnumerable<K22CNT4_NguyenVanQuyet_Project2.Models.San_Pham>
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 mt-3">
+            <div class="card w-100">
+                <img src="@item.hinhanh" class="card-img-top" alt="@item.ten_sp">
+                <div class="card-body">
+                    <h5 class="card-title"> @item.ten_sp</h5>
+                    <p>Giá:<span class="text-danger">@item.gia</span></p>
+                    <a href="/NVQCart/AddToCart?id=@item.id_sp&TenSanPham=@item.ten_sp&HinhAnh=@item.hinhanh&SoLuongMua=1&DonGiaMua=@item.gia" 
+                       class="btn btn-primary">
+                    Mua hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    }
+</div>
+
+
